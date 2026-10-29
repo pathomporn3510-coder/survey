@@ -1,0 +1,4 @@
+[
+  { "role": "พนักงาน", "username": "employee01", "password": "เปลี่ยนเป็นรหัสจริง" },
+  { "role": "หัวหน้าแผนก", "username": "manager01", "password": "เปลี่ยนเป็นรหัสจริง" }
+]
